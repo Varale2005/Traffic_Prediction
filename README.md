@@ -10,7 +10,7 @@ Machine Learning model trained on historical traffic data
 
 
 Project Structure
-text
+
 │
 ├── src/
 │   ├── app.py                  # Main Flask application
@@ -24,6 +24,7 @@ text
 ├── scaler.save                 # Scaler used for input features
 ├── requirements.txt            # Python dependencies
 └── README.md                   # This documentation
+
 
 
 Setup Instructions
@@ -82,3 +83,4 @@ Notes
 Do not commit your database passwords or sensitive data.
 You may import sample data from traffic.csv for testing.
 The ML model files are pre-trained and saved for inference.
+
