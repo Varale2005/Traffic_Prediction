@@ -14,8 +14,8 @@ A traffic congestion prediction system that uses machine learning and live senso
 ---
 
 ## Project Structure
-
-```├── src/
+```
+├── src/
 │ ├── app.py # Main Flask application
 │ ├── realtime_predict.py # Real-time prediction script
 │ ├── templates/ # HTML files
@@ -25,7 +25,15 @@ A traffic congestion prediction system that uses machine learning and live senso
 ├── traffic_model.keras # Trained ML model
 ├── scaler.save # Scaler used for input features
 ├── requirements.txt # Python dependencies
-└── README.md # This documentation```
+└── README.md # This documentation ```
+
+
+## Setup Instructions
+
+1. Clone the repository:
+git clone <your_repo_url_here>
+cd <your_repository_folder>
+
 
 
 
