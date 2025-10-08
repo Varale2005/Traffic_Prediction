@@ -9,7 +9,7 @@ Database backend with MySQL for live data storage and prediction results
 Machine Learning model trained on historical traffic data
 
 
-Project Structure
+"""Project Structure"""
 
 │
 ├── src/
@@ -83,4 +83,5 @@ Notes
 Do not commit your database passwords or sensitive data.
 You may import sample data from traffic.csv for testing.
 The ML model files are pre-trained and saved for inference.
+
 
