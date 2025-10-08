@@ -74,14 +74,15 @@ Edit database connection details in src/app.py or use environment variables.
 python src/app.py
 Open your browser to http://127.0.0.1:5000/ and start predicting traffic!
 ```
-Usage
+Usage: 
 Input junction number and date/time details to get predicted vehicle counts.
 Predictions are based on saved ML models and scaler.
 
-Notes
+Notes:
 Do not commit your database passwords or sensitive data.
 You may import sample data from traffic.csv for testing.
 The ML model files are pre-trained and saved for inference.
+
 
 
 
