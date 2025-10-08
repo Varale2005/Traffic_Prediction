@@ -31,12 +31,12 @@ A traffic congestion prediction system that uses machine learning and live senso
 
 ## Setup Instructions
 
-1. Clone the repository:
-git clone <your_repo_url_here>
-cd <your_repository_folder>
+1. Clone the repository
+2. Create and activate a virtual environment
+3. Install dependencies
+   pip install -r requirements.txt
+   Set up MySQL database
 
-
-2. Create and activate a virtual environment:
 
 
 
